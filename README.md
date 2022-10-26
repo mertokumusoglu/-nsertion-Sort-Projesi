@@ -1,4 +1,6 @@
  Insertion-Sort-Projesi
+ 
+ www.patika.dev
 
 [22,27,16,2,18,6] dizisini insertion sorta göre aşamalarını yazınız.
 
