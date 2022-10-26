@@ -10,4 +10,4 @@
 
 Big O Notation gösterimi: O(n^2)
 
-
+Dizi sıralandıktan sonra 18 sayısı average case sınıfına girer çünkü 18 ortalardadır ---> [2,6,16,18,22,27]
